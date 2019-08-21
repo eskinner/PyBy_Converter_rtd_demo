@@ -10,9 +10,9 @@ Welcome to es_test's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-Installation
-Usage
-Examples
+   Installation
+   Usage
+   Examples
 
 Indices and tables
 ==================
