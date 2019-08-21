@@ -1,20 +1,18 @@
-.. PyByConverter_demo_MR documentation master file, created by
-   sphinx-quickstart on Tue Aug 20 16:13:22 2019.
+.. es_test documentation master file, created by
+   sphinx-quickstart on Wed Aug 21 11:37:04 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PyByConverter_demo_MR's documentation!
-=================================================
+Welcome to es_test's documentation!
+===================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   Installation
-   Usage
-   Examples
-
-
+Installation
+Usage
+Examples
 
 Indices and tables
 ==================
